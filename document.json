@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "MovieName": "Arsenal",
+    "ReleaseDate": "January 6",
+    "MovieGenre": "Thriller, Action",
+    "Year": "2017"
+  },
+  {
+    "id": 2,
+    "MovieName": "Underworld: Blood Wars",
+    "ReleaseDate": "January 6",
+    "MovieGenre": "Thriller, Action, Horror",
+    "Year": "2015"
+  },
+  {
+    "id": 3,
+    "MovieName": "The Bye Bye Man",
+    "ReleaseDate": "January 13",
+    "MovieGenre": "Horror, Thriller",
+    "Year": "2016"
+  },
+  {
+    "id": 4,
+    "MovieName": "Sleepless",
+    "ReleaseDate": "January 13",
+    "MovieGenre": "Action, Thriller",
+    "Year": "2017"
+  },
+  {
+    "id": 5,
+    "MovieName": "Monster Trucks",
+    "ReleaseDate": "January 13",
+    "MovieGenre": "Animation, Adventure, Sci-Fi",
+    "Year": "2017"
+  },
+  {
+    "id": 6,
+    "MovieName": "The Book of Love",
+    "ReleaseDate": "January 13",
+    "MovieGenre": "Drama, Comedy",
+    "Year": "2015"
+  },
+  {
+    "id": 7,
+    "MovieName": "XXX: Return of Xander Cage",
+    "ReleaseDate": "January 20",
+    "MovieGenre": "Action",
+    "Year": "2017"
+  },
+  {
+    "id": 8,
+    "MovieName": "The resurrection of Gavin Stone",
+    "ReleaseDate": "January 20",
+    "MovieGenre": "Comedy, Drama",
+    "Year": "2016"
+  },
+  {
+    "id": 9,
+    "MovieName": "Trespass Against Us",
+    "ReleaseDate": "January 20",
+    "MovieGenre": "Crime, Drama, Thriller",
+    "Year": "2016"
+  },
+  {
+    "id": 10,
+    "MovieName": "Lost in London",
+    "ReleaseDate": "January 20",
+    "MovieGenre": "Drama",
+    "Year": "2017"
+  },
+  {
+    "id": 11,
+    "MovieName": "Detour",
+    "ReleaseDate": "January 20",
+    "MovieGenre": "Thriller",
+    "Year": "2015"
+  },
+  {
+    "id": 12,
+    "MovieName": "Lost in Florence",
+    "ReleaseDate": "January 27",
+    "MovieGenre": "Romance, Drama",
+    "Year": "2017"
+  },
+  {
+    "id": 13,
+    "MovieName": "I Am Michael",
+    "ReleaseDate": "January 27",
+    "MovieGenre": "Biography, Drama",
+    "Year": "2015"
+  },
+  {
+    "id": 14,
+    "MovieName": "Youth in Oregon",
+    "ReleaseDate": "February 6",
+    "MovieGenre": "Comedy, Drama",
+    "Year": "2016"
+  },
+  {
+    "id": 15,
+    "MovieName": "Fifty Shades Darker",
+    "ReleaseDate": "February 10",
+    "MovieGenre": "Drama, Romance",
+    "Year": "2015"
+  },
+  {
+    "id": 16,
+    "MovieName": "Fist Fight",
+    "ReleaseDate": "February 17",
+    "MovieGenre": "Comedy",
+    "Year": "2017"
+  },
+  {
+    "id": 17,
+    "MovieName": "The Great Wall",
+    "ReleaseDate": "February 17",
+    "MovieGenre": "Action, Sci-Fi",
+    "Year": "2017"
+  },
+  {
+    "id": 18,
+    "MovieName": "American Fable",
+    "ReleaseDate": "February 17",
+    "MovieGenre": "Thriller, Fantasy",
+    "Year": "2016"
+  },
+  {
+    "id": 19,
+    "MovieName": "Get Out",
+    "ReleaseDate": "February 17",
+    "MovieGenre": "Horror",
+    "Year": "2015"
+  },
+  {
+    "id": 20,
+    "MovieName": "The Girl With All the Gifts",
+    "ReleaseDate": "January 6",
+    "MovieGenre": "Zombie",
+    "Year": "2016"
+  }
+]
+
+
